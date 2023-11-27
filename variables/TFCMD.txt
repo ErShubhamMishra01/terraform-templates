@@ -1,0 +1,19 @@
+terraform init
+terraform plan
+terraform apply
+terraform show
+terraform validate
+terraform destroy
+terraform refresh - refresh local state from live 
+terraform fmt
+terraform output
+terraform providers
+terraform state
+terraform -version
+terraform graph     (it will display graph content in terminal)
+brew install graphviz  (for installing graph on mac)
+terraform graph | -Tsvg >graph.svg  (after this command need to open graph.svg file in web browser.)
+
+terraform 
+terraform 
+terraform 
